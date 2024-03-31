@@ -62,6 +62,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
 - ⁠[Onthis Frame](https://github.com/Mr94t3z/onthis-frame): The Farcaster Frame for Creating and Swapping Shortcuts seamlessly integrates with https://create.onthis.xyz/.
+- [QuizFrame](https://github.com/MiluniEvanMwasame/Quiz-Frame-): A Fracaster frame that enables the user to take quizzes.
 
 ### Compatible messaging apps
 
