@@ -20,14 +20,7 @@
     "react-dom": "^18.2.0",
     "sharp": "^0.32.6",
     "utf-8-validate": "^6.0.3",
-    "viem": "^2.8.11",
-    "@xmtp/frames-client": "^0.4.2",
-    "@xmtp/react-sdk": "^5.0.1",
-    "buffer": "^6.0.3",
-    "ethers": "^5.7.0",
-    "react-markdown": "^8.0.7",
-    "react-scripts": "5.0.1",
-    "styled-components": "^6.0.8"
+    "viem": "^2.8.11"
   },
   "devDependencies": {
     "@types/node": "^20.11.8",
